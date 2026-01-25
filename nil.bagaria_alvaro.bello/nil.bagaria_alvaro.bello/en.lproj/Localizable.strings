@@ -1,0 +1,104 @@
+/* 
+  Localizable.strings
+  WikiFilms
+
+  Created by Alvaro Bello Garrido on 24/1/26.
+  
+*/
+"register" = "Register";
+
+"login_message" = "Please, enter your account.";
+"password" = "Password";
+
+"register_message" = "Fill in the following fields to complete the registration process.";
+"repeat_email" = "Repeat email";
+"username" = "Username";
+"repeat_password" = "Repeat password";
+
+"home" = "Home";
+
+"details" = "Details";
+"save" = "Save";
+
+"watchList" = "WatchList";
+
+"search_bar" = "Search...";
+
+"profile" = "Profile";
+"change_email" = "Change Email";
+"new_email" = "New Email";
+"change_password" = "Change Password";
+"new_password" = "New Password";
+"repeat_new_password" = "Repeat New Password";
+"save_changes" = "Save Changes";
+
+//LoginViewController
+"miss_info" = "Missing Information";
+"miss_info_text" = "Please enter both email and password.";
+"login_error" = "Login Error";
+"login_error_text" = "Invalid credentials or the user does not exist. Please, try again.";
+"auth_reason" = "Authenticate to access WikiFilms.";
+"auth_failed" = "Authentication failed";
+"auth_failed_reason" = "Biometric authentication was not successfull. Please log in using your credentials.";
+"unvailable" = "Unvailable";
+"biometric_not_available"  = "Biometric authentication is not available on this device.";
+"accept_alert" = "Accept";
+"login_required" = "Login required";
+"login_required_text" = "Please log in once before using biometric authentication.";
+
+//RegisterViewController
+"miss_info_fields" = "Please fill all the fields with the correct information.";
+"invalid_mail" = "Invalid Email";
+"mail_must_contain" = "Email must contain '@' and '.' to be valid.";
+"missmatch_mail" = "Missmatched Emails";
+"fields_not_match" = "Email fields do not match.";
+"invalid_psswd" = "Invalid Password";
+"psswd_requirements" = "Password must have, at least:\n- 6 characters.\n- One uppercase letter.\n- One lowercase letter.\n- One number.";
+"missmatch_pswd" = "Missmatched Passwords";
+"pswd_fields_not_match" = "Password fields do not match.";
+"register_error" = "Register Error";
+"register_error_firebase" = "There was an error creating the new user or the email used already exists. Please, try again.";
+"db_error" = "Database Error";
+"db_error_text" = "Error saving data to Database. Please, try again later.";
+"success_alert" = "Success!";
+"succes_login" = "User registered successfully. You can now log in.";
+
+//HomeViewController
+"top_rated" = "Top Rated";
+"popular" = "Popular";
+"top_rated_movies" = "Top Rated Movies";
+
+//WatchListViewController
+"delete_error" = "Error deleting movie from WatchList.";
+
+//MovieDetailViewController
+"not_saved" = "Could not save movie.";
+"saved" = "Saved";
+"added_watchlist" = "Movie added to WatchList.";
+
+//ProfileViewController
+"profile_invalid_mail" = "Invalid Mail";
+"profile_invalid_mail_text" = "Email must contain '@' and '.' to be accepted.";
+"same_email" = "The new email is the same as the actual users email.";
+"profile_pswd_error" = "Password Error";
+"profile_pswd_not_match" = "Passwords do not match.";
+"profile_pswd_error" = "Password Error";
+"profie_pswd_error_changing" = "Error changing the password.";
+"prof_success" = "Success!";
+"prof_updated" = "Profile updated successfully. You will be loged out automatically to apply the changes. Please, log in again.";
+"logout_buton" = " Logout";
+"logout_error" = "Log Out Error";
+"logout_error_text" = "Unable to log out. Please try again.";
+"profile_invalid_mail" = "Invalid email";
+"profile_invalid_mail_text" = "Please enter a valid email address.";
+"profile_pswd_error" = "Password error";
+"profile_pswd_not_match" = "Passwords do not match.";
+"invalid_psswd" = "Invalid password";
+"psswd_requirements" = "Password must be at least 6 characters long and include one uppercase letter, one lowercase letter and one number.";
+"session_expired" = "Session expired";
+"login_required_to_update" = "For security reasons, please log in again to apply this change.";
+"prof_success" = "Changes Saved!";
+"login_again" = "Please log in again to continue.";
+"profile_error" = "Profile error";
+"username_update_error" = "Username could not be updated.";
+"username_updated" = "Username updated successfully. Log in again to see the changes updated.";

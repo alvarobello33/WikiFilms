@@ -1,0 +1,138 @@
+
+/* Class = "UILabel"; text = "Change Email"; ObjectID = "2Rd-cE-GaE"; */
+"2Rd-cE-GaE.text" = "Cambiar Nombre De Usuario";
+
+/* Class = "UIButton"; configuration.subtitle = " Save"; ObjectID = "32P-Mq-7mU"; */
+"32P-Mq-7mU.configuration.subtitle" = " Guardar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "32P-Mq-7mU"; */
+"32P-Mq-7mU.normalTitle" = "Botón";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "7hg-Hz-ozc"; */
+"7hg-Hz-ozc.title" = "Inicio";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9Ho-eF-e5b"; */
+"9Ho-eF-e5b.normalTitle" = "Botón";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9nb-0a-Vnb"; */
+"9nb-0a-Vnb.text" = "Etiqueta";
+
+/* Class = "UIButton"; configuration.title = "Save Changes"; ObjectID = "AAP-Z7-PK2"; */
+"AAP-Z7-PK2.configuration.title" = "Guardar Cambios";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AAP-Z7-PK2"; */
+"AAP-Z7-PK2.normalTitle" = "Botón";
+
+/* Class = "UITextField"; placeholder = "Repeat New Password"; ObjectID = "CY6-mf-6dp"; */
+"CY6-mf-6dp.placeholder" = "Repetir Nueva Contraseña";
+
+/* Class = "UILabel"; text = "WikiFilms"; ObjectID = "CpL-kE-Y02"; */
+"CpL-kE-Y02.text" = "WikiFilms";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "D9q-mA-q5m"; */
+"D9q-mA-q5m.placeholder" = "Contraseña";
+
+/* Class = "UITextField"; placeholder = "Repeat email"; ObjectID = "Dyk-cG-SjM"; */
+"Dyk-cG-SjM.placeholder" = "Repetir Correo Electrónico";
+
+/* Class = "UILabel"; text = "Please, enter your account."; ObjectID = "GYa-uo-92b"; */
+"GYa-uo-92b.text" = "Por favor, introduce tus credenciales.";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "IFX-Vu-YX0"; */
+"IFX-Vu-YX0.title" = "Buscar";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "Jmq-0T-quO"; */
+"Jmq-0T-quO.configuration.title" = "Registro";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Jmq-0T-quO"; */
+"Jmq-0T-quO.normalTitle" = "Botón";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "KeL-Yh-RsL"; */
+"KeL-Yh-RsL.text" = "Perfil";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "Lm9-rt-3Xg"; */
+"Lm9-rt-3Xg.text" = "...";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "N6b-jr-2l9"; */
+"N6b-jr-2l9.placeholder" = "Correo Electrónico";
+
+/* Class = "UIButton"; configuration.title = "Log In"; ObjectID = "RHc-ov-I47"; */
+"RHc-ov-I47.configuration.title" = "Iniciar Sesión";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RHc-ov-I47"; */
+"RHc-ov-I47.normalTitle" = "Botón";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "RiR-wL-vQ9"; */
+"RiR-wL-vQ9.placeholder" = "Nueva Contraseña";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "S8U-8S-AOf"; */
+"S8U-8S-AOf.placeholder" = "Nombre de Usuario";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Umh-ip-T5c"; */
+"Umh-ip-T5c.placeholder" = "Correo Electrónico";
+
+/* Class = "UILabel"; text = "..."; ObjectID = "X6J-ZV-Ttr"; */
+"X6J-ZV-Ttr.text" = "...";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Y4P-jP-APg"; */
+"Y4P-jP-APg.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Overview"; ObjectID = "bcJ-si-TtA"; */
+"bcJ-si-TtA.text" = "Sinopsis";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "c8d-Fb-UoI"; */
+"c8d-Fb-UoI.placeholder" = "Contraseña";
+
+/* Class = "UIButton"; configuration.title = "Log In"; ObjectID = "cTG-8I-PMR"; */
+"cTG-8I-PMR.configuration.title" = "Iniciar Sesión";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cTG-8I-PMR"; */
+"cTG-8I-PMR.normalTitle" = "Botón";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cjb-10-iRc"; */
+"cjb-10-iRc.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "dHv-Ts-Z31"; */
+"dHv-Ts-Z31.text" = "Cambiar Contraseña";
+
+/* Class = "UILabel"; text = "WatchList"; ObjectID = "eDj-lz-RXq"; */
+"eDj-lz-RXq.text" = "Mi Lista";
+
+/* Class = "UITabBarItem"; title = "WatchList"; ObjectID = "gtK-tO-JIn"; */
+"gtK-tO-JIn.title" = "Mi Lista";
+
+/* Class = "UITextField"; placeholder = "Repeat password"; ObjectID = "jb5-KD-Iey"; */
+"jb5-KD-Iey.placeholder" = "Repetir Contraseña";
+
+/* Class = "UILabel"; text = "WikiFilms"; ObjectID = "n1E-gc-yrU"; */
+"n1E-gc-yrU.text" = "WikiFilms";
+
+/* Class = "UILabel"; text = "WikiFilms"; ObjectID = "nEU-jy-RJZ"; */
+"nEU-jy-RJZ.text" = "WikiFilms";
+
+/* Class = "UITextField"; placeholder = "New Email"; ObjectID = "nGN-9B-XiY"; */
+"nGN-9B-XiY.placeholder" = "Nuevo Nombre De Usuario";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "q9Q-zC-mPP"; */
+"q9Q-zC-mPP.text" = "Detallles";
+
+/* Class = "UISearchBar"; placeholder = "Search..."; ObjectID = "rHO-tG-fVF"; */
+"rHO-tG-fVF.placeholder" = "Buscar...";
+
+/* Class = "UILabel"; text = "Fill in the following fields to complete the process."; ObjectID = "u4R-ht-eFB"; */
+"u4R-ht-eFB.text" = "Rellena los siguientes campos para completar el proceso.";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "upl-rm-4AY"; */
+"upl-rm-4AY.title" = "Inicio";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "vg3-UZ-4iZ"; */
+"vg3-UZ-4iZ.configuration.title" = "Registro";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vg3-UZ-4iZ"; */
+"vg3-UZ-4iZ.normalTitle" = "Botón";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "ygO-Vf-rVW"; */
+"ygO-Vf-rVW.title" = "Perfil";
+
+/* Class = "UILabel"; text = "Title of the Film"; ObjectID = "zCI-OU-Zvs"; */
+"zCI-OU-Zvs.text" = "Título de la Película";

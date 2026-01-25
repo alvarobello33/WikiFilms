@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="24506" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="24504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="TopMoviesCollectionCell" id="gTV-IL-0wX" customClass="TopMoviesCollectionViewCell" customModule="WikiFilms" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="248" height="269"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="248" height="269"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="1" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ONH-6f-Oz5">
+                        <rect key="frame" x="30" y="59.666666666666657" width="31" height="150"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="150" id="37e-kb-AI3"/>
+                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="31" id="MCP-k8-9ym"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="DINCondensed-Bold" family="DIN Condensed" pointSize="80"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Mdf-vJ-eNG">
+                        <rect key="frame" x="77" y="8" width="171" height="253"/>
+                        <constraints>
+                            <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="75" id="8qi-aS-uxV"/>
+                            <constraint firstAttribute="width" relation="lessThanOrEqual" constant="180" id="Jmk-4m-eeS"/>
+                            <constraint firstAttribute="height" relation="lessThanOrEqual" constant="260" id="Ndv-X4-qJS"/>
+                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="25" id="hBO-Bj-7D3"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="Mdf-vJ-eNG" secondAttribute="bottom" id="5TK-0F-0z8"/>
+                <constraint firstItem="ONH-6f-Oz5" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="30" id="E9t-KJ-tDC"/>
+                <constraint firstItem="Mdf-vJ-eNG" firstAttribute="centerY" secondItem="gTV-IL-0wX" secondAttribute="centerY" id="HPo-1B-avZ"/>
+                <constraint firstAttribute="trailing" secondItem="Mdf-vJ-eNG" secondAttribute="trailing" id="Jc5-aX-ane"/>
+                <constraint firstItem="ONH-6f-Oz5" firstAttribute="centerY" secondItem="gTV-IL-0wX" secondAttribute="centerY" id="gis-n2-BHg"/>
+                <constraint firstItem="Mdf-vJ-eNG" firstAttribute="leading" secondItem="ONH-6f-Oz5" secondAttribute="trailing" constant="16" id="qj7-51-41s"/>
+                <constraint firstItem="Mdf-vJ-eNG" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="r7U-zp-PFi"/>
+            </constraints>
+            <size key="customSize" width="248" height="269"/>
+            <connections>
+                <outlet property="imgTopMovie" destination="Mdf-vJ-eNG" id="Rol-ut-ac6"/>
+                <outlet property="numberTopMovie" destination="ONH-6f-Oz5" id="Cak-R5-oPZ"/>
+            </connections>
+            <point key="canvasLocation" x="204.58015267175571" y="132.04225352112678"/>
+        </collectionViewCell>
+    </objects>
+</document>

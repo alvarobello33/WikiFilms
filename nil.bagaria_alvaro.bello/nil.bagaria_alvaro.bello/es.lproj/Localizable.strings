@@ -1,0 +1,104 @@
+/*
+  Localizable.strings
+  WikiFilms
+
+  Created by Nil Bagaria Nofre on 24/1/26.
+  
+*/
+"register" = "Registro";
+
+"login_message" = "Por favor, inicie sesión.";
+"password" = "Contraseña";
+
+"register_message" = "Rellena los siguientes campos para completar el proceso de registro.";
+"repeat_email" = "Repetir correo electrónico";
+"username" = "Nombre de usuario";
+"repeat_password" = "Repetir contraseña";
+
+"home" = "Inicio";
+
+"details" = "Detalles";
+"save" = "Guardar";
+
+"watchList" = "Mi Lista";
+
+"search_bar" = "Buscar...";
+
+"profile" = "Perfil";
+"change_email" = "Cambiar correo electrónico";
+"new_email" = "Nuevo correo electrónico";
+"change_password" = "Cambiar contraseña";
+"new_password" = "Nueva contraseña";
+"repeat_new_password" = "Repetir nueva contraseña";
+"save_changes" = "Guardar cambios";
+
+//LoginViewController
+"miss_info" = "Campos Vacíos";
+"miss_info_text" = "Por favor, introduce ambos campos: correo electrónico y contraseña.";
+"login_error" = "Error de Inicio de Sesión";
+"login_error_text" = "Usuario y/o contraseña incorrectos. Por favor, vuelve a intentarlo.";
+"auth_reason" = "Autenticación para acceder a WikiFilms.";
+"auth_failed" = "Autenticación Fallida";
+"auth_failed_reason" = "Autenticación Biométrica Fallida. Por favor, inicia sesión utilizando las credenciales.";
+"unvailable" = "No Disponible";
+"biometric_not_available"  = "Autenticación Biométrica no disponible en este dispositivo.";
+"accept_alert" = "Aceptar";
+"login_required" = "Inicio de Sesión Necesario";
+"login_required_text" = "Por favor, inicie sesión por lo menos una vez, antes de poder usar la autenticación biométrica.";
+
+//RegisterViewController
+"miss_info_fields" = "Por favor, rellelna todos los campos.";
+"invalid_mail" = "Correo Electrónico Incorrecto";
+"mail_must_contain" = "El correo electrónico debe contener '@' y '.' para ser válido.";
+"missmatch_mail" = "Correo Electrónico Distinto.";
+"fields_not_match" = "Los campos del correo electrónico no coinciden. Por favor, asegúrate de que sean iguales.";
+"invalid_psswd" = "Contraseña Incorrecta";
+"psswd_requirements" = "La contraseña debe tener, como mínimo:\n- 6 caracteres.\n- Una letra mayúscula.\n- Una letra minúscula.\n- Un número.";
+"missmatch_pswd" = "Contraseñas Distintas";
+"pswd_fields_not_match" = "Los campos de las contraseñas no coinciden. Por favor, asegúrate de que sean iguales.";
+"register_error" = "Error de Registro";
+"register_error_firebase" = "Ha habido un error creando el nuevo usuario o el correo introducido ya existe. Por favor, vuelve a intentarlo.";
+"db_error" = "Error Base de Datos";
+"db_error_text" = "Error guardando los datos en la Base de Datos. Por favor, inténtalo de nuevo más tarde.";
+"success_alert" = "Completado!";
+"succes_login" = "Usuario registrado correctamente. Ahora puedes iniciar sesión.";
+
+//HomeViewController
+"top_rated" = "Mejor Valorados";
+"popular" = "Populares";
+"top_rated_movies" = "Pel·lículas Mejor Valoradas";
+
+//WatchListViewController
+"delete_error" = "Error eliminando pel·lícula de MiLista.";
+
+//MovieDetailViewController
+"not_saved" = "No se ha podido guardar la pel·lícula.";
+"saved" = "Guardado";
+"added_watchlist" = "Pel·lícula añadida a MiLista.";
+
+//ProfileViewController
+"profile_invalid_mail" = "Correo Electrónico Inválido";
+"profile_invalid_mail_text" = "El correo electrónico debe contener '@' y '.' para ser válido.";
+"same_email" = "El nuevo correo electrónico coincide con el correo electrónico actual del usuario. Por favor, introduce un nuevo correo electrónico.";
+"profile_pswd_error" = "Error de contraseña";
+"profile_pswd_not_match" = "Los campos de las contraseñas no coinciden.";
+"profile_pswd_error" = "Error de contraseña";
+"profie_pswd_error_changing" = "Error cambiando la contraseña.";
+"prof_success" = "¡Completado!";
+"prof_updated" = "Perfil actualizado correctamente. Se cerrará la sesión automáticamente para aplicar los cambios. Por favor, vuelve a iniciar sesión.";
+"logout_buton" = " Cerrar Sesión";
+"logout_error" = "Error Cerrando Sesión";
+"logout_error_text" = "No se ha podido cerrar sesión. Por favor, vuelve a intentarlo.";
+"profile_invalid_mail" = "Correo electrónico inválido";
+"profile_invalid_mail_text" = "Introduce un correo electrónico válido.";
+"profile_pswd_error" = "Error en la contraseña";
+"profile_pswd_not_match" = "Las contraseñas no coinciden.";
+"invalid_psswd" = "Contraseña inválida";
+"psswd_requirements" = "La contraseña debe tener al menos 6 caracteres, una mayúscula, una minúscula y un número.";
+"session_expired" = "Sesión caducada";
+"login_required_to_update" = "Por seguridad, debes volver a iniciar sesión para aplicar este cambio.";
+"prof_success" = "¡Cambios Guardados!";
+"login_again" = "Vuelve a iniciar sesión para continuar.";
+"profile_error" = "Error de perfil";
+"username_update_error" = "No se ha podido actualizar el nombre de usuario.";
+"username_updated" = "Nombre de usuario actualizado correctamente. Vuelve a iniciar sesión para reflejar el cambio.";

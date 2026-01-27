@@ -11,7 +11,7 @@ import Alamofire
 enum TMDBRouter: URLRequestConvertible {
 
     static let baseURL = "https://api.themoviedb.org/3"
-    static let bearerToken = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkMDgyNDZiM2VlN2Q0OWUzODJiZjk2M2Q2NTI1M2IyNiIsIm5iZiI6MTc2NDAxNDQzNi4zNzksInN1YiI6IjY5MjRiOTY0OWFjMmNiOWExNWI5MzhiMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.DeeClc_REkJthlZjaKjMzyvefzbIZFbEsd3MynApfVQ"
+    static let bearerToken = CHANGE_FOR_YOUR_TMDB_TOKEN
     
     //Escollim idioma per les peticions (i traduccions)
     private var tmdbLanguage: String {

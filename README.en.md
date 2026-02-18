@@ -30,6 +30,13 @@ The application uses a **TabBar** with four sections:
 
 ---
 
+## ⚙ Required Configurations
+
+- Configure the CHANGE_FOR_YOUR_API_KEY parameter in WikiFilms/nil.bagaria_alvaro.bello/nil.bagaria_alvaro.bello/WikiFilms/GoogleService-Info.plist with a new Firebase API KEY.
+- Configure the CHANGE_FOR_YOUR_TMDB_TOKEN parameter in WikiFilms/nil.bagaria_alvaro.bello/nil.bagaria_alvaro.bello/WikiFilms/TMDB/TMDBRouter.swift with a new TMDB TOKEN (The Movie Database).
+
+---
+
 ## 🛠️ Technologies and SDKs
 
 | Technology | Purpose |

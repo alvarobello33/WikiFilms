@@ -30,6 +30,13 @@ La aplicación utiliza un **TabBar** con cuatro secciones:
 
 ---
 
+## ⚙ Configuración necesaria
+
+- Configurar parámetro CHANGE_FOR_YOUR_API_KEY en WikiFilms/nil.bagaria_alvaro.bello/nil.bagaria_alvaro.bello/WikiFilms/GoogleService-Info.plist con una nueva API KEY de Firebase.
+- Configurar parámetro CHANGE_FOR_YOUR_TMDB_TOKEN en WikiFilms/nil.bagaria_alvaro.bello/nil.bagaria_alvaro.bello/WikiFilms/TMDB/TMDBRouter.swift con un nuevo TOKEN de TMDB (The Movie Database).
+
+---
+
 ## 🛠️ Tecnologías y SDKs
 
 | Tecnología | Uso |
@@ -40,13 +47,6 @@ La aplicación utiliza un **TabBar** con cuatro secciones:
 | **Alamofire** | Peticiones HTTP a la API |
 | **SDWebImage** | Descarga y caché de imágenes |
 | **LocalAuthentication** | Face ID / Touch ID |
-
----
-
-## ⚙ Configuración necesaria
-
-- Configurar parámetro CHANGE_FOR_YOUR_API_KEY en WikiFilms/nil.bagaria_alvaro.bello/nil.bagaria_alvaro.bello/WikiFilms/GoogleService-Info.plist con una nueva API KEY de Firebase.
-- Configurar parámetro CHANGE_FOR_YOUR_TMDB_TOKEN en WikiFilms/nil.bagaria_alvaro.bello/nil.bagaria_alvaro.bello/WikiFilms/TMDB/TMDBRouter.swift con un nuevo TOKEN de TMDB (The Movie Database).
 
 ---
 
